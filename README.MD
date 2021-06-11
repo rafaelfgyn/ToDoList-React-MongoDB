@@ -1,0 +1,1 @@
+Rodar os ambos os projetos separadamente usando o comando "npm run dev".
